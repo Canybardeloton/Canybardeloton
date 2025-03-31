@@ -13,10 +13,9 @@
   <img align="right" alt="Coding" width="250" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif">
   
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
-    • 🔭 I'm currently working on an assistant for helping neuropsychologist int their writing.</br>
+    • 🔭 I'm currently working on an app for neuropsychologist to assist them in their writing.</br>
     • 🌱 Leaner at 42 Paris.</br>
-    • ⚡ Fun fact: I like durian.</br></br>
-    Feel free to reach me out.</br>
+    Looking for an internship starting Septembre 2025. Feel free to reach me out.</br>
     • 📧 <a href="mailto:armel.gilibert@gmail.com">By Email</a></br>
     • 👔 <a href="https://www.linkedin.com/in/armelgilibert/">Via LinkedIn</a></br>
   </p>
