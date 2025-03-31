@@ -13,12 +13,12 @@
   <img align="right" alt="Coding" width="250" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif">
   
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
-    • 🔭 I'm currently working on my personal portfolio.</br>
+    • 🔭 I'm currently working on an assistant for helping neuropsychologist int their writing.</br>
     • 🌱 Leaner at 42 Paris.</br>
     • ⚡ Fun fact: I like durian.</br></br>
     Feel free to reach me out.</br>
-    • 📧 <a href="mailto:your.email@gmail.com">By Email</a></br>
-    • 👔 <a href="https://www.linkedin.com/in/arthurbernard92/">Via LinkedIn</a></br>
+    • 📧 <a href="mailto:armel.gilibert@gmail.com">By Email</a></br>
+    • 👔 <a href="https://www.linkedin.com/in/armelgilibert/">Via LinkedIn</a></br>
   </p>
 </div>
 </br>
@@ -45,11 +45,14 @@
 </br>
 
 <div align="center">
-  <a href="https://github.com/TuroTheReal/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=minishell&theme=radical" alt="minishell" />
+  <a href="https://github.com/Canybardeloton/CPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canybardeloton&repo=CPP&theme=radical" alt="CPP" />
   </a>
-  <a href="https://github.com/TuroTheReal/inception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=radical" alt="inception" />
+  <a href="https://github.com/Canybardeloton/Psysite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canybardeloton&repo=Psysite&theme=radical" alt="Site Neuropsy" />
+  </a>
+  <a href="https://github.com/Canybardeloton/DjangoProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canybardeloton&repo=DjangoProject&theme=radical" alt="Django Project" />
   </a>
 </div>
 </br>
@@ -58,7 +61,7 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canybardeloton&theme=radical" alt="Top Languages"/>
 </div>
 
 
