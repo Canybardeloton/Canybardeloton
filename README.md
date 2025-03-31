@@ -15,7 +15,7 @@
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
     • 🔭 I'm currently working on an app for neuropsychologist to assist them in their writing.</br>
     • 🌱 Leaner at 42 Paris.</br>
-    
+    </br>
     Looking for an internship starting Septembre 2025. Feel free to reach me out.</br>
     • 📧 <a href="mailto:armel.gilibert@gmail.com">By Email</a></br>
     • 👔 <a href="https://www.linkedin.com/in/armelgilibert/">Via LinkedIn</a></br>
