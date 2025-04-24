@@ -54,6 +54,9 @@
   <a href="https://github.com/Canybardeloton/DjangoProject">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canybardeloton&repo=DjangoProject&theme=radical" alt="Django Project" />
   </a>
+  <a href="https://github.com/Canybardeloton/Upload_page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canybardeloton&repo=Upload_page&theme=radical" alt="Django Project" />
+  </a>
 </div>
 </br>
 
