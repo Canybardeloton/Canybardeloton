@@ -54,8 +54,8 @@
   <a href="https://github.com/Canybardeloton/Upload_page">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canybardeloton&repo=Upload_page&theme=radical" alt="Upload page" />
   </a>
-  <a href="https://github.com/Canybardeloton/DjangoProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canybardeloton&repo=DjangoProject&theme=radical" alt="Django Project" />
+  <a href="https://github.com/Canybardeloton/MVP_BilanNeuroGen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Canybardeloton&repo=MVP_BilanNeuroGen&theme=radical" alt="MVP_BilanNeuroGen" />
   </a>
 </div>
 </br>
